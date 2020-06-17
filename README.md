@@ -23,11 +23,11 @@ Check out the formulas in this repository to see what is available.
 
 ## Beta Releases
 
-To install beta channel releases, instead of the stable ones, add a `--head`
+To install beta channel releases, instead of the stable ones, add a `--HEAD`
 flag after the brew commands:
 
 ```shell
-brew install jamf-pro --head
+brew install jamf-pro --HEAD
 ```
 
 ## Contributing
